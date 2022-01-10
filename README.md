@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @slmydroid
+- 👀 I’m interested in data visualization, analytics and all things architecture and construction
+- 🌱 I’m currently learning machine learning and data visualisation
+- 💞️ I’m looking to collaborate on data projects that are architecture, construction or real estate related
+- 📫 Say hello! at shirleylee033@gmail.com
